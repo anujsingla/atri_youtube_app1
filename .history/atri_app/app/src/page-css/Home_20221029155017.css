@@ -1,0 +1,15 @@
+.p-Home.Header_Flex1 {
+  display: flex;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ea0c0c;
+  background-color: #020202;
+  height: 30px;
+  min-height: 30px;
+  max-height: 40px;
+}
+.p-Home.Header_TextBox1 {
+  color: #ffffff;
+  align-self: center;
+}
